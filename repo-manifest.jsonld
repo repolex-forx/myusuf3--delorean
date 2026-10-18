@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/myusuf3/delorean/commit/eea5ccaf3c25c2939fbe372c35e27c4ef5941b0b",
       "git:hexsha": "eea5ccaf3c25c2939fbe372c35e27c4ef5941b0b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.0.0",
+      "repolex:parsedAt": "2026-10-18T01:57:30.786285+00:00"
     },
     {
       "@id": "https://repolex.ai/r/myusuf3/delorean/commit/a83249e960303ca8325646da1ba94bfcd23a3843",
