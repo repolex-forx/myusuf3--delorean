@@ -1,0 +1,11 @@
+{
+  "org": "myusuf3",
+  "repo": "delorean",
+  "versions": [
+    {
+      "commit": "eea5ccaf3c25c2939fbe372c35e27c4ef5941b0b",
+      "tag": "2.0.0",
+      "parsed_at": "2026-10-18T01:57:30.786788+00:00"
+    }
+  ]
+}
